@@ -5,5 +5,8 @@
 - 💠Lua
 - 💾x86 assembly
 - 💿C/C++
+- 🛠Makefile
+- ⚙️Shell Scripting
+- ⚙️Batch Scripting
 - 📒Advanced Scratch
 - 🤬Brainf***
