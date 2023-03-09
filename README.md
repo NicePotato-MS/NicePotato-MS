@@ -1,6 +1,6 @@
 - 🥔am potat
 - 🖥am pogrimer
-- Languages I know
+### Languages I know
 - 🎤English (Speaking)
 - 💠Lua
 - 💾x86 assembly
