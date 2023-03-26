@@ -1,16 +1,16 @@
-- 🥔am potat
-- 🖥am pogrimer
+- 🥔 am potat
+- 🖥 am pogrimer
 - Discord: NicePotato#5755
 ### Languages I know
-- 🎤English (Speaking)
-- 💠Lua
+- 🎤 English (Speaking)
+- 💠 Lua
 - - Roblox
 - - LÖVE2D
 - - Pico-8
-- 💾x86 assembly
-- 💿C/C++
-- 🛠Makefile
-- ⚙️Shell Scripting
-- ⚙️Batch Scripting
-- 📒Advanced Scratch
-- 🤬Brainf***
+- 💾 x86 assembly
+- 💿 C/C++
+- 🛠 Makefile
+- ⚙️ Shell Scripting
+- ⚙️ Batch Scripting
+- 📒 Advanced Scratch
+- 🤬 Brainf***
