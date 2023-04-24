@@ -9,6 +9,7 @@
 - - Pico-8
 - 💾 x86 assembly
 - 💿 C/C++
+- 🐍 Python
 - 🛠 Makefile
 - ⚙️ Shell Scripting
 - ⚙️ Batch Scripting
