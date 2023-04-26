@@ -3,7 +3,7 @@
 - Discord: NicePotato#5755
 ### Languages I know
 - 🎤 English (Speaking)
-- 💠 Lua
+- 💠 Lua5.1/LuaJIT
 - - Roblox
 - - LÖVE2D
 - - Pico-8
