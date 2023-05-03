@@ -15,3 +15,8 @@
 - ⚙️ Batch Scripting
 - 📒 Advanced Scratch
 - 🤬 Brainf***
+### Interests
+- Videogame development
+- Software development
+- LLM and other AI (noob)
+- Arduino/ESP microcontrollers
