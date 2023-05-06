@@ -9,6 +9,7 @@
 - - Pico-8
 - 💾 x86 assembly
 - 💿 C/C++
+- 🖩 TI-Basic
 - 🐍 Python
 - 🛠 Makefile
 - ⚙️ Shell Scripting
@@ -20,3 +21,4 @@
 - Software development
 - LLM and other AI (noob)
 - Arduino/ESP microcontrollers
+- TI calculators
