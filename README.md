@@ -1,6 +1,6 @@
 - 🥔 am potat
 - 🖥 am pogrimer
-- Discord: NicePotato#5755
+- Discord: nicepotato.
 ### Languages I know
 - 🎤 English (Speaking)
 - 💠 Lua/LuaJIT
