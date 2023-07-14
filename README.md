@@ -8,7 +8,7 @@
 - - LÖVE2D
 - - Pico-8
 - 💾 x86 assembly
-- 💿 C/C++
+- 💿 C
 - 🖩 TI-Basic
 - 🐍 Python
 - 🛠 Makefile
