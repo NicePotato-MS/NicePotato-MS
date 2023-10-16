@@ -1,3 +1,4 @@
+![Very nice rotating image of my username in a retro style created very well by nice person](https://raw.githubusercontent.com/NicePotato-MS/NicePotato-MS/main/nicepotato.gif)
 - 🥔 am potat
 - 🖥 am pogrimer
 - Discord: nicepotato.
