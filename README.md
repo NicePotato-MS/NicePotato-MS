@@ -8,9 +8,10 @@
 - - Roblox
 - - LÖVE2D
 - - Pico-8
+- 💾 Intel 8080 assembly
 - 💾 x86 assembly
-- 💿 C
-- 🎮 Unity/C#
+- 💿 C/C++
+- 🎮 C#/Unity
 - 🖩 TI-Basic
 - 🐍 Python
 - 🛠 Makefile
